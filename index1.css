@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    display:flex;
+ 
+    align-items:center;
+    justify-content:center;
+}
+.container{
+    display:flex;
+    color:blueviolet;
+    justify-content:center;
+    align-items:center;
+    height:500px;
+    width:500px;
+    border: solid  black 5px;
+
+}
+.item{
+    height:50px;
+    width:100px;
+    border:solid black;
+
+}
+.boat{
+    height:50px;
+    width:100px;
+    background-color:red;
+}
